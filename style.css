@@ -1,0 +1,28 @@
+header {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 100%;
+    border: 1px solid black     ;
+}
+
+header img {
+    height: 100px;
+}
+
+body {
+    display: flex;
+    flex-direction: row;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    
+}
